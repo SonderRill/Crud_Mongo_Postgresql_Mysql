@@ -1,0 +1,21 @@
+{
+  "name": "crud_postgresql",
+  "version": "1.0.0",
+  "description": "Crud PostgreSQL",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "start": "node app"
+  },
+  "keywords": [
+    "PostgreSQL",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Berezkin Kirill",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.3.2"
+  }
+}
